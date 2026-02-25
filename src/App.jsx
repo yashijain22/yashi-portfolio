@@ -80,6 +80,7 @@ function App() {
                 Skilled at writing efficient, maintainable code while enhancing backend performance through structured 
                 design principles
               </p>
+            </div>
             {/* Skills */}
             <div>
               <h4 className="text-xl font-semibold mb-4">Skills</h4>
