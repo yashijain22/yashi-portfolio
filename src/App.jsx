@@ -79,6 +79,7 @@ function App() {
                 SQLAlchemy. Strong in REST architecture, JWT authentication, OTP systems, and database optimization. 
                 Skilled at writing efficient, maintainable code while enhancing backend performance through structured 
                 design principles
+              </p>
             {/* Skills */}
             <div>
               <h4 className="text-xl font-semibold mb-4">Skills</h4>
