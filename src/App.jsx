@@ -75,9 +75,9 @@ function App() {
             <div>
               <h4 className="text-xl font-semibold mb-4">Profile Summary</h4>
               <p className="text-slate-600 leading-relaxed">
-                Python Backend Developer experienced in building secure, scalable web applications using FastAPI, Flask, and 
-                SQLAlchemy. Strong in REST architecture, JWT authentication, OTP systems, and database optimization. 
-                Skilled at writing efficient, maintainable code while enhancing backend performance through structured 
+                Python Backend Developer experienced in building secure, scalable web applications using FastAPI, Flask, and
+                SQLAlchemy. Strong in REST architecture, JWT authentication, OTP systems, and database optimization.
+                Skilled at writing efficient, maintainable code while enhancing backend performance through structured
                 design principles
               </p>
             </div>
@@ -125,66 +125,66 @@ function App() {
 
           <div className="grid md:grid-cols-3 gap-8">
 
-            {/* 1 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">Elysia – AI Powered Chat App</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                FastAPI backend with JWT authentication, OTP reset, SQLAlchemy ORM, async programming and OpenAI GPT integration.
+                FastAPI backend with JWT authentication, OTP reset, SQLAlchemy ORM,
+                async programming and OpenAI GPT integration.
               </p>
               <div className="mt-4 text-xs text-slate-500">
                 Python • FastAPI • OpenAI • SQLAlchemy • JWT • React
               </div>
             </div>
 
-            {/* 2 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">Password Generator Web App</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                Secure Flask app with authentication, OTP reset (SendGrid), SQLite storage and CI/CD deployment.
+                Secure Flask app with authentication, OTP reset (SendGrid),
+                SQLite storage and CI/CD deployment.
               </p>
               <div className="mt-4 text-xs text-slate-500">
                 Python • Flask • SQLite • Bootstrap • Render
               </div>
             </div>
 
-            {/* 3 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">Job Recommendation System</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                Personalized job suggestion platform using Python-based recommendation algorithms.
+                Personalized job suggestion platform using Python-based
+                recommendation algorithms and backend integration.
               </p>
               <div className="mt-4 text-xs text-slate-500">
                 Python • ML Logic • Backend
               </div>
             </div>
 
-            {/* 4 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">AI Exam Proctoring System</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                Computer vision based system detecting suspicious activities during online exams.
+                Computer vision based monitoring system implementing face detection,
+                head pose estimation, and suspicious activity tracking.
               </p>
               <div className="mt-4 text-xs text-slate-500">
                 Python • OpenCV • ML • Computer Vision
               </div>
             </div>
 
-            {/* 5 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">AI Powered Personal Finance Assistant</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                Intelligent assistant for expense tracking, budgeting insights and financial data analysis.
+                Full-stack finance management app with authentication,
+                transaction tracking, dashboard analytics and AI-driven insights.
               </p>
               <div className="mt-4 text-xs text-slate-500">
-                Python • AI Models • Data Analysis • APIs
+                Python • Flask • SQLite • Data Analysis • APIs
               </div>
             </div>
 
-            {/* 6 */}
             <div className="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition">
               <h4 className="font-semibold text-lg">Task Manager Web App</h4>
               <p className="text-slate-600 mt-3 text-sm">
-                CRUD-based task management system with authentication and clean UI design.
+                CRUD-based task management system with authentication,
+                backend logic and clean UI implementation.
               </p>
               <div className="mt-4 text-xs text-slate-500">
                 Python • Flask • SQLite • Frontend
@@ -195,7 +195,7 @@ function App() {
         </div>
       </section>
 
-           {/* ===== CONTACT ===== */}
+      {/* ===== CONTACT ===== */}
       <section id="contact" className="py-24 border-t border-slate-200">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h3 className="text-3xl font-semibold mb-6">Contact</h3>
@@ -205,7 +205,7 @@ function App() {
 
           <div className="space-y-4 text-slate-700">
             <p>
-              📧 Email: 
+              📧 Email:
               <a
                 href="mailto:yashi2212.jain@gmail.com"
                 className="ml-1 text-slate-900 font-medium hover:underline"
@@ -215,7 +215,7 @@ function App() {
             </p>
 
             <p>
-              📱 Phone: 
+              📱 Phone:
               <a
                 href="tel:6350202035"
                 className="ml-1 text-slate-900 font-medium hover:underline"
@@ -225,7 +225,7 @@ function App() {
             </p>
 
             <p>
-              🔗 LinkedIn: 
+              🔗 LinkedIn:
               <a
                 href="https://linkedin.com/in/yashijain22"
                 target="_blank"
@@ -237,7 +237,7 @@ function App() {
             </p>
 
             <p>
-              💻 GitHub: 
+              💻 GitHub:
               <a
                 href="https://github.com/yashijain22"
                 target="_blank"
