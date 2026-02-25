@@ -39,7 +39,7 @@ function App() {
                 View Projects
               </a>
               <a
-                href="/Resume.pdf"
+                href="/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-xl bg-slate-800 text-white hover:bg-slate-700 transition"
@@ -75,38 +75,32 @@ function App() {
             <div>
               <h4 className="text-xl font-semibold mb-4">Profile Summary</h4>
               <p className="text-slate-600 leading-relaxed">
-                Aspiring AI/ML and Python Developer with a strong foundation in Computer Science and Engineering. Skilled in building secure backend systems, integrating AI models, and designing scalable architectures using FastAPI and Flask. Passionate about leveraging data-driven approaches, neural networks, and intelligent automation to solve real-world problems.
-              </p>
-            </div>
-
+                Python Backend Developer experienced in building secure, scalable web applications using FastAPI, Flask, and 
+                SQLAlchemy. Strong in REST architecture, JWT authentication, OTP systems, and database optimization. 
+                Skilled at writing efficient, maintainable code while enhancing backend performance through structured 
+                design principles
             {/* Skills */}
             <div>
               <h4 className="text-xl font-semibold mb-4">Skills</h4>
               <div className="flex flex-wrap gap-3">
                 {[
                   "Python",
-                  "Artificial Intelligence",
-                  "Machine Learning",
-                  "Deep Learning",
-                  "NLP",
-                  "OOPs",
-                  "Data Structures",
-                  "SQL",
-                  "Data Visualization",
-                  "FastAPI",
-                  "Flask",
+                  "Object-Oriented Programming",
                   "API Integration",
-                  "Django",
-                  "React",
+                  "Data Visualization",
                   "Bootstrap",
+                  "Natural Language Processing",
+                  "Artificial Intelligence",
+                  "Backend Development",
+                  "SQL",
+                  "Flask",
+                  "Back-End Frameworks (E.G., Node.Js, Django)",
+                  "React",
                   "Git",
-                  "GitHub",
-                  "AWS (Cloud Basics)",
-                  "Problem Solving",
-                  "Analytical and Interpersonal Skills",
-                  "Time Management",
-                  "Communication Skills",
-                  "Leadership"
+                  "Machine Learning",
+                  "Data Structures and Algorithms",
+                  "Communication Skills"
+
                 ].map((skill, index) => (
                   <span
                     key={index}
@@ -122,7 +116,7 @@ function App() {
         </div>
       </section>
 
-      {/* ===== PROJECTS ===== */}}
+      {/* ===== PROJECTS ===== */}
       <section id="projects" className="py-24 border-t border-slate-200 bg-slate-50">
         <div className="max-w-6xl mx-auto px-6">
           <h3 className="text-3xl font-semibold mb-12">Projects</h3>
